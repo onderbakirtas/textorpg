@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "content": "Akademiye giriş yapmak için aşağıdaki butona tıklayınız.",
+    "backgroundImage": "https://i.ibb.co/4gFMXhS/bfbbbf51-7f0e-41d1-b960-0838d5c7fd28.jpg",
+    "options": [
+      {
+        "text": "Akademiye gir",
+        "nextId": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "content": "Akademiye hoşgeldin! Burada birçok ders bulunmaktadır. Hangi dersi almak istersin?",
+    "backgroundImage": "https://i.ibb.co/9qz9B6S/bba0aae2-ff62-41f9-b1f7-d3dc4bbfd946.jpg",
+    "options": [
+      {
+        "text": "JavaScript",
+        "nextId": 3
+      },
+      {
+        "text": "Python",
+        "nextId": 4
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "content": "JavaScript dersine hoşgeldin! Dersler haftada 3 gün olup, 1 ders saati 45 dakikadır. Dersler saat 09:00'da başlamaktadır. Derslerin başlangıç tarihi 1 Eylül'dür. Ders ücreti 1000 TL'dir. Dersi almak ister misin?",
+    "backgroundImage": "https://i.ibb.co/tCCcYjD/35e4e117-f98f-4b17-8285-6e669027e442.jpg",
+    "options": [
+      {
+        "text": "Dersi al",
+        "nextId": 5
+      },
+      {
+        "text": "Dersi almak istemiyorum",
+        "nextId": 2
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "content": "Python dersine hoşgeldin! Dersler haftada 3 gün olup, 1 ders saati 45 dakikadır. Dersler saat 10:00'da başlamaktadır. Derslerin başlangıç tarihi 1 Eylül'dür. Ders ücreti 1500 TL'dir. Dersi almak ister misin?",
+    "backgroundImage": "https://i.ibb.co/7KNR68x/9cc98044-aebf-4b21-a9ee-258864df7548.jpg",
+    "options": [
+      {
+        "text": "Dersi al",
+        "nextId": 5
+      },
+      {
+        "text": "Dersi almak istemiyorum",
+        "nextId": 2
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "content": "Ders kaydınız başarıyla alınmıştır. Derslerin başlangıç tarihi 1 Eylül'dür. Derslerin başlangıç tarihine kadar ödemenizi yapmanız gerekmektedir. Ödeme yapmak ister misiniz?",
+    "backgroundImage": "https://i.ibb.co/7bQJj1V/1.jpg",
+    "options": [
+      {
+        "text": "Ödeme yap",
+        "nextId": 6
+      },
+      {
+        "text": "Ödeme yapmak istemiyorum",
+        "nextId": 2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "content": "Ödemeniz başarıyla alınmıştır. Derslerin başlangıç tarihi 1 Eylül'dür. Derslerin başlangıç tarihinde sizi bekliyor olacağız. İyi dersler!",
+    "backgroundImage": "https://i.ibb.co/7bQJj1V/1.jpg",
+    "options": [
+      {
+        "text": "Çıkış yap",
+        "nextId": 1
+      }
+    ]
+  }
+]
